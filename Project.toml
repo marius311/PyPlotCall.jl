@@ -1,0 +1,7 @@
+name = "PyPlotCall"
+uuid = "047ad020-b108-4ef4-bde0-ff785504948e"
+authors = ["marius <mariusmillea@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+PythonCall = "6099a3de-0909-46bc-b1f4-468b9a2dfc0d"
